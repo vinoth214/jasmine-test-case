@@ -1,0 +1,20 @@
+.header{
+    margin-left: 230px;
+}
+.mail-icon{
+    width: 100px;
+    display: inline-block;
+}
+.profile-name{
+        width: 258px;
+    display: inline-block;
+    position: relative;
+}
+.menu-item{
+    position: absolute;
+    top: 32px;
+}
+.menu-item ul{
+    padding: 0;
+    list-style: none;
+}
